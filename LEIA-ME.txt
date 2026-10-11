@@ -1,0 +1,16 @@
+TIMEMANIA CAMPEÃO V1 - PROJETO ANDROID NATIVO
+
+1. Crie um repositório em https://github.com/new
+2. Envie os arquivos DE DENTRO desta pasta para a raiz do repositório.
+3. Abra Actions > Gerar APK Timemania Campeao > Run workflow.
+4. Baixe TIMEMANIA_CAMPEAO_APK em Artifacts e instale app-debug.apk.
+
+Motor Android implementado em Java, independente de Python no celular.
+Importação TXT: concurso - sete dezenas separadas por vírgula - time.
+Exemplo: 1 - 24,31,51,57,63,71,80 - PALMAS/TO
+Análise: 73 falhas, sobreposição, 10 blocos de 8, 85 mil candidatos, 1 repetida.
+Time: ranqueia somente times encontrados no arquivo importado.
+O cadastro vigente dos 80 times oficiais da CAIXA NÃO está incluído nem validado.
+
+O projeto ainda precisa ser compilado e testado em aparelho Android.
+Não existe garantia de previsão ou ganho na loteria.
